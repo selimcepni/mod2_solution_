@@ -1,0 +1,41 @@
+.anakutu{
+    background-color: rgb(76, 92, 92);
+    width: 500px;
+    height: 300px;
+}
+
+.kutucuk1{
+
+    background-color: rgb(13, 13, 165);
+    position: relative;
+    margin-left: auto;
+    width: 150px;
+    height: 50px;
+}
+.kutucuk2{
+
+    background-color: rgb(54, 129, 4);
+    position: relative;
+    margin-left: auto;
+    width: 150px;
+    height: 50px;
+}
+
+.kutucuk3{
+
+    background-color: rgb(121, 5, 5);
+    position: relative;
+    margin-left: auto;
+    width: 150px;
+    height: 50px;
+}
+
+.baslik{
+color: black;
+font: bold;
+size: 100px;
+position: ;
+position: center
+;
+
+}
