@@ -1,8 +1,27 @@
+
 .anakutu{
+    
     background-color: rgb(207, 223, 223);
-    width: 500px;
-    height: 300px;
+    width: 33%;
+    height: 250px;
     outline-style: solid;
+    
+
+}
+.anakutu2{
+    background-color: rgb(207, 223, 223);
+    margin-left: 2%;
+    width: 33%;
+    outline-style: solid;
+}
+
+.anakutu3{
+    background-color: rgb(207, 223, 223);
+    margin-left: 2%;
+    width: 33%;
+    outline-style: solid;
+
+
 }
 
 .kutucuk1{
@@ -39,5 +58,210 @@ color: black;
 font: bold;
 size: 100px;
 text-align: center;
+
+}    
+@media screen and (min-width: 992px){
+    
+
+    .anakutu{
+    
+        background-color: rgb(207, 223, 223);
+        width: 33%;
+        height: 250px;
+        outline-style: solid;
+        
+    
+    }
+    .anakutu2{
+        background-color: rgb(207, 223, 223);
+        margin-left: 2%;
+        width: 33%;
+        outline-style: solid;
+    }
+    
+    .anakutu3{
+        background-color: rgb(207, 223, 223);
+        margin-left: 2%;
+        width: 33%;
+        outline-style: solid;
+    
+    
+    }
+    
+    .kutucuk1{
+    
+        background-color: rgb(13, 13, 165);
+        outline-style: solid;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+       
+         }
+    .kutucuk2{
+    
+        background-color: rgb(54, 129, 4);
+        outline-style: solid;
+        position: relative;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .kutucuk3{
+    
+        background-color: rgb(121, 5, 5);
+        outline-style: solid;
+        position: relative;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .baslik{
+    color: black;
+    font: bold;
+    size: 100px;
+    text-align: center;
+    
+    }    
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+    .anakutu{
+    
+        background-color: rgb(207, 223, 223);
+        width: 49%;
+        height: 250px;
+        outline-style: solid;
+        flex-wrap: wrap;
+        
+    
+    }
+    .anakutu2{
+        background-color: rgb(207, 223, 223);
+        width: 49%;
+        outline-style: solid;
+        flex-wrap: wrap;
+    }
+    
+    .anakutu3{
+        background-color: rgb(207, 223, 223);
+        width: 100%;
+        height: 250px;
+        outline-style: solid;
+        margin-top: 15px;
+        flex-wrap: wrap;
+    
+    
+    }
+    
+    .kutucuk1{
+    
+        background-color: rgb(13, 13, 165);
+        outline-style: solid;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+       
+         }
+    .kutucuk2{
+    
+        background-color: rgb(54, 129, 4);
+        outline-style: solid;
+        position: relative;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .kutucuk3{
+    
+        background-color: rgb(121, 5, 5);
+        outline-style: solid;
+        position: relative;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .baslik{
+    color: black;
+    font: bold;
+    size: 100px;
+    text-align: center;
+    
+    }       
+    
+    
+}
+
+@media screen and (max-width: 767px){
+    .anakutu{
+    
+        background-color: rgb(207, 223, 223);
+        width: 100%;
+        height: 250px;
+        outline-style: solid;
+               
+    
+    }
+    .anakutu2{
+        background-color: rgb(207, 223, 223);
+        margin-left: 2%;
+        width: 100%;
+        outline-style: solid;
+        margin-top: 20px;
+    }
+    
+    .anakutu3{
+        background-color: rgb(207, 223, 223);
+        margin-left: 2%;
+        width: 100%;
+        outline-style: solid;
+        margin-top: 20px;
+        
+    
+    
+    }
+    
+    .kutucuk1{
+    
+        background-color: rgb(13, 13, 165);
+        outline-style: solid;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+       
+         }
+    .kutucuk2{
+    
+        background-color: rgb(54, 129, 4);
+        outline-style: solid;
+        position: relative;
+        margin-left: auto;
+        
+        width: 150px;
+        height: 50px;
+    }
+    
+    .kutucuk3{
+    
+        background-color: rgb(121, 5, 5);
+        outline-style: solid;
+        position: relative;
+        margin-left: auto;
+        width: 150px;
+        height: 50px;
+    }
+    
+    .baslik{
+    color: black;
+    font: bold;
+    size: 100px;
+    text-align: center;
+    
+    }    
 
 }
