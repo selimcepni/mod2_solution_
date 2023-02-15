@@ -1,20 +1,23 @@
 .anakutu{
-    background-color: rgb(76, 92, 92);
+    background-color: rgb(207, 223, 223);
     width: 500px;
     height: 300px;
+    outline-style: solid;
 }
 
 .kutucuk1{
 
     background-color: rgb(13, 13, 165);
-    position: relative;
+    outline-style: solid;
     margin-left: auto;
     width: 150px;
     height: 50px;
-}
+   
+     }
 .kutucuk2{
 
     background-color: rgb(54, 129, 4);
+    outline-style: solid;
     position: relative;
     margin-left: auto;
     width: 150px;
@@ -24,6 +27,7 @@
 .kutucuk3{
 
     background-color: rgb(121, 5, 5);
+    outline-style: solid;
     position: relative;
     margin-left: auto;
     width: 150px;
@@ -34,8 +38,6 @@
 color: black;
 font: bold;
 size: 100px;
-position: ;
-position: center
-;
+text-align: center;
 
 }
